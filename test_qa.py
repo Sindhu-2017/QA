@@ -17,9 +17,3 @@ def test_result():
     Expected_login_result = "Success"
     Actual_login_result = "Success"
     assert Expected_login_result == Actual_login_result
-
-# Q4
-
-# Q5
-
-# Q6
